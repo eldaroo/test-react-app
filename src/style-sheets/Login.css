@@ -1,0 +1,41 @@
+.login-box {
+    background-color: white;
+}
+
+th, td, tr {
+    border: 2px solid #999;
+  }
+
+table {
+    border: 2px solid thin;
+    border-collapse: collapse;
+}
+
+.logo {
+    max-width: 300px;
+}
+
+p {
+    color: black;
+    text-align: center;
+    font-size: 12px;
+    line-height: 0px;
+    max-width: 300px;
+}
+
+.text {
+    font-size: 14px;
+    color: black;
+    float: right;
+    display: flex;
+    align-items: center;
+    word-break:break-all;
+    margin: 0 0 1em 1em;
+}
+
+h3 {
+    color: black;
+    text-align: center;
+    font-size: 18px;
+    line-height: 0px;
+}
